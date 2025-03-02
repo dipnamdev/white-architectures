@@ -1,0 +1,47 @@
+.montserrat-extralight {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+  }
+.montserrat-light {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .montserrat-regular {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .montserrat-medium {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .poiret-one-regular {
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .f50{
+    font-size: clamp(24px, 2.6vw, 50px);
+  }
+  .f20{
+    font-size: clamp(14px, 1vw, 20px);
+  }
+  .f24{
+    font-size: clamp(16px,1.3vw,24px);
+  }
+  .f120{
+    font-size: clamp(70px, 6vw, 120px);
+  }
+  .f150{
+    font-size:clamp(80px,7vw,150px);
+  }
